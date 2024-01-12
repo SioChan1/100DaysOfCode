@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    padding: unset;
+    margin: unset;
+}
+
+header li{
+ display: inline;
+}
+header{
+    background-color: black;
+    margin: unset;
+}
+header ul{
+    margin: unset;
+}
